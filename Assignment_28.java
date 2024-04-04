@@ -1,4 +1,4 @@
-//5.  Merge Sort    Time Complexity-O(nlogn) & Space Complexity-.
+//5.  Merge Sort    Time Complexity-O(nlogn) & Space Complexity-O(n).
 
 import java.util.*;
 
